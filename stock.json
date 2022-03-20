@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "nombre": "RemeraA",
+    "tipo": "remera",
+    "desc": "Una remera para quedar bien donde vayas",
+    "precio": 1550
+  },
+  {
+    "id": 2,
+    "nombre": "RemeraB",
+    "tipo": "remera",
+    "desc": "Una remera para quedar bien donde vayas",
+    "precio": 1550
+  },
+  {
+    "id": 3,
+    "nombre": "RemeraC",
+    "tipo": "remera",
+    "desc": "Una remera para quedar bien donde vayas",
+    "precio": 1550
+  },
+  {
+    "id": 4,
+    "nombre": "BuzoA",
+    "tipo": "buzo",
+    "desc": "Una buzo para quedar bien donde vayas",
+    "precio": 2500
+  },
+  {
+    "id": 5,
+    "nombre": "BuzoB",
+    "tipo": "buzo",
+    "desc": "Un buzo para llevar a todos lados",
+    "precio": 2500
+  },
+  {
+    "id": 6,
+    "nombre": "BuzoC",
+    "tipo": "buzo",
+    "desc": "Un buzo para llevar a todos lados",
+    "precio": 2500
+  },
+  {
+    "id": 7,
+    "nombre": "TrajeA",
+    "tipo": "traje",
+    "desc": "Un traje para tu dia a dia y ocaciones especiales",
+    "precio": 33550
+  },   
+  {
+    "id": 8,
+    "nombre": "TrajeB",
+    "tipo": "traje",
+    "desc": "Un traje para tu dia a dia y ocaciones especiales",
+    "precio": 33550
+ 
+  },   
+  {
+    "id": 9,
+    "nombre": "TrajeC",
+    "tipo": "traje",
+    "desc": "Un traje para tu dia a dia y ocaciones especiales",
+    "precio": 33550 
+  
+  }
+]

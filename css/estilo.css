@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    color: black; }
+  
+.nav {
+    line-height: 2.5; }
+  
+.nav-item {
+    margin-top: 28px; }
+  
+.Login {
+    margin-right: 750px;
+    margin-top: -15px; }
+  
+.local {
+    width: 95%; }
+  
+.Flocal {
+    text-align: center;
+    margin-top: 15px; }
+  
+.logo {
+   height: 100px; }
+
+.imgcarrito{
+    width: 120px;
+}
